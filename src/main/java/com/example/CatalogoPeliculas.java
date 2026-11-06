@@ -57,12 +57,12 @@ public class CatalogoPeliculas {
 
         Document documento = new SAXBuilder().build(archivoXml);
         Element raiz = documento.getRootElement();
-        List<Pelicula> peliculas = new ArrayList<>();
+        List<Pelicula> peliculasConvertidas = new ArrayList<>();
 
         for (Element elemento : raiz.getChildren("pelicula")) {
             String anio = obtenerTexto(elemento, "anio", "año");
             try {
-                peliculas.add(new Pelicula(
+                peliculasConvertidas.add(new Pelicula(
                         Integer.parseInt(obtenerTexto(elemento, "id")),
                         obtenerTexto(elemento, "titulo"),
                         obtenerTexto(elemento, "director"),
@@ -74,9 +74,9 @@ public class CatalogoPeliculas {
             }
         }
 
-        this.peliculas = peliculas;
+        this.peliculas = peliculasConvertidas;
         guardarCatalogo(this);
-        return peliculas.size();
+        return peliculasConvertidas.size();
     }
 
     public List<Pelicula> obtenerTodas() throws IOException {
