@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula>
+      <id>1</id>
+      <titulo>Interstellar</titulo>
+      <director>Christopher Nolan</director>
+      <anio>2014</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>2</id>
+      <titulo>El Padrino</titulo>
+      <director>Francis Ford Coppola</director>
+      <anio>1972</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>3</id>
+      <titulo>Matrix</titulo>
+      <director>Lana Wachowski</director>
+      <anio>1999</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>4</id>
+      <titulo>Parásitos</titulo>
+      <director>Bong Joon-ho</director>
+      <anio>2019</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>5</id>
+      <titulo>Toy Story</titulo>
+      <director>John Lasseter</director>
+      <anio>1995</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>6</id>
+      <titulo>Pulp Fiction</titulo>
+      <director>Quentin Tarantino</director>
+      <anio>1994</anio>
+      <genero>Crimen</genero>
+  </pelicula>
+  <pelicula>
+      <id>7</id>
+      <titulo>El señor de los anillos: El retorno del rey</titulo>
+      <director>Peter Jackson</director>
+      <anio>2003</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>8</id>
+      <titulo>Origen</titulo>
+      <director>Christopher Nolan</director>
+      <anio>2010</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>9</id>
+      <titulo>La lista de Schindler</titulo>
+      <director>Steven Spielberg</director>
+      <anio>1993</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>10</id>
+      <titulo>El club de la lucha</titulo>
+      <director>David Fincher</director>
+      <anio>1999</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>11</id>
+      <titulo>El viaje de Chihiro</titulo>
+      <director>Hayao Miyazaki</director>
+      <anio>2001</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>12</id>
+      <titulo>Gladiator</titulo>
+      <director>Ridley Scott</director>
+      <anio>2000</anio>
+      <genero>Acción</genero>
+  </pelicula>
+  <pelicula>
+      <id>13</id>
+      <titulo>Spirited Away</titulo>
+      <director>Hayao Miyazaki</director>
+      <anio>2001</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>14</id>
+      <titulo>Cadena perpetua</titulo>
+      <director>Frank Darabont</director>
+      <anio>1994</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>15</id>
+      <titulo>El resplandor</titulo>
+      <director>Stanley Kubrick</director>
+      <anio>1980</anio>
+      <genero>Terror</genero>
+  </pelicula>
+  <pelicula>
+      <id>16</id>
+      <titulo>La vida es bella</titulo>
+      <director>Roberto Benigni</director>
+      <anio>1997</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>17</id>
+      <titulo>Blade Runner 2049</titulo>
+      <director>Denis Villeneuve</director>
+      <anio>2017</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>18</id>
+      <titulo>El silencio de los corderos</titulo>
+      <director>Jonathan Demme</director>
+      <anio>1991</anio>
+      <genero>Crimen</genero>
+  </pelicula>
+  <pelicula>
+      <id>19</id>
+      <titulo>Coco</titulo>
+      <director>Lee Unkrich</director>
+      <anio>2017</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>20</id>
+      <titulo>El caballero oscuro</titulo>
+      <director>Christopher Nolan</director>
+      <anio>2008</anio>
+      <genero>Acción</genero>
+  </pelicula>
+  <pelicula>
+      <id>21</id>
+      <titulo>Pinocho de Guillermo del Toro</titulo>
+      <director>Guillermo del Toro</director>
+      <anio>2022</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>22</id>
+      <titulo>Whiplash</titulo>
+      <director>Damien Chazelle</director>
+      <anio>2014</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>23</id>
+      <titulo>WALL-E</titulo>
+      <director>Andrew Stanton</director>
+      <anio>2008</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>24</id>
+      <titulo>Salvar al soldado Ryan</titulo>
+      <director>Steven Spielberg</director>
+      <anio>1998</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>25</id>
+      <titulo>Psicosis</titulo>
+      <director>Alfred Hitchcock</director>
+      <anio>1960</anio>
+      <genero>Terror</genero>
+  </pelicula>
+  <pelicula>
+      <id>26</id>
+      <titulo>Uno de los nuestros</titulo>
+      <director>Martin Scorsese</director>
+      <anio>1990</anio>
+      <genero>Crimen</genero>
+  </pelicula>
+  <pelicula>
+      <id>27</id>
+      <titulo>Alien, el octavo pasajero</titulo>
+      <director>Ridley Scott</director>
+      <anio>1979</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>28</id>
+      <titulo>El truco final (El prestigio)</titulo>
+      <director>Christopher Nolan</director>
+      <anio>2006</anio>
+      <genero>Misterio</genero>
+  </pelicula>
+  <pelicula>
+      <id>29</id>
+      <titulo>Delrevés (Inside Out)</titulo>
+      <director>Pete Docter</director>
+      <anio>2015</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>30</id>
+      <titulo>La la land</titulo>
+      <director>Damien Chazelle</director>
+      <anio>2016</anio>
+      <genero>Romance</genero>
+  </pelicula>
+  <pelicula>
+      <id>31</id>
+      <titulo>Infiltrados</titulo>
+      <director>Martin Scorsese</director>
+      <anio>2006</anio>
+      <genero>Crimen</genero>
+  </pelicula>
+  <pelicula>
+      <id>32</id>
+      <titulo>Terminator 2: El juicio final</titulo>
+      <director>James Cameron</director>
+      <anio>1991</anio>
+      <genero>Acción</genero>
+  </pelicula>
+  <pelicula>
+      <id>33</id>
+      <titulo>El gran hotel Budapest</titulo>
+      <director>Wes Anderson</director>
+      <anio>2014</anio>
+      <genero>Comedia</genero>
+  </pelicula>
+  <pelicula>
+      <id>34</id>
+      <titulo>Amélie</titulo>
+      <director>Jean-Pierre Jeunet</director>
+      <anio>2001</anio>
+      <genero>Comedia</genero>
+  </pelicula>
+  <pelicula>
+      <id>35</id>
+      <titulo>Dune</titulo>
+      <director>Denis Villeneuve</director>
+      <anio>2021</anio>
+      <genero>Ciencia ficción</genero>
+  </pelicula>
+  <pelicula>
+      <id>36</id>
+      <titulo>Forrest Gump</titulo>
+      <director>Robert Zemeckis</director>
+      <anio>1994</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>37</id>
+      <titulo>El laberinto del fauno</titulo>
+      <director>Guillermo del Toro</director>
+      <anio>2006</anio>
+      <genero>Fantasía</genero>
+  </pelicula>
+  <pelicula>
+      <id>38</id>
+      <titulo>Mad Max: Furia en la carretera</titulo>
+      <director>George Miller</director>
+      <anio>2015</anio>
+      <genero>Acción</genero>
+  </pelicula>
+  <pelicula>
+      <id>39</id>
+      <titulo>La forma del agua</titulo>
+      <director>Guillermo del Toro</director>
+      <anio>2017</anio>
+      <genero>Fantasía</genero>
+  </pelicula>
+  <pelicula>
+      <id>40</id>
+      <titulo>El show de Truman</titulo>
+      <director>Peter Weir</director>
+      <anio>1998</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>41</id>
+      <titulo>La vida de Pi</titulo>
+      <director>Ang Lee</director>
+      <anio>2012</anio>
+      <genero>Aventura</genero>
+  </pelicula>
+  <pelicula>
+      <id>42</id>
+      <titulo>Intocable</titulo>
+      <director>Olivier Nakache</director>
+      <anio>2011</anio>
+      <genero>Comedia</genero>
+  </pelicula>
+  <pelicula>
+      <id>43</id>
+      <titulo>El nombre del viento</titulo>
+      <director>Mamoru Hosoda</director>
+      <anio>2013</anio>
+      <genero>Animación</genero>
+  </pelicula>
+  <pelicula>
+      <id>44</id>
+      <titulo>Roma</titulo>
+      <director>Alfonso Cuarón</director>
+      <anio>2018</anio>
+      <genero>Drama</genero>
+  </pelicula>
+  <pelicula>
+      <id>45</id>
+      <titulo>Oppenheimer</titulo>
+      <director>Christopher Nolan</director>
+      <anio>2023</anio>
+      <genero>Drama</genero>
+  </pelicula>
+</peliculas>   
